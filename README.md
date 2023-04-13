@@ -1,6 +1,6 @@
 # space-exploration
 
-site url - http://vaishnavghenge.me/space-exploration/
+site url - http://vaishnavghenge.github.io/space-exploration/
 
 Screenshot
 _______________________________________________________________________________________________________________________________________________________________
